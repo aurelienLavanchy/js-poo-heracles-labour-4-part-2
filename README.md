@@ -44,6 +44,6 @@ To check, look in the Hero's info panel if the information appears correctly.
 
 > Kill a monster or two, and watch your inventory panel. Your number of experience points and your level must change.
 
-- Finally, to make level useful in *gameplay*, make `getStrength()` and `getDexterity()` return strength and dexterity, multiplied by the level of the fighter. So if Heracles has a base strength of 20, at level 1 `getStength()` will return 20, then 40 at level 2, *etc.*. Don't forget to change it on the `Fighter` and `Hero` classes.
+- Finally, to make level useful in *gameplay*, make `getStrength()` and `getDexterity()` return strength and dexterity, multiplied by the level of the fighter. So if Heracles has a base strength of 20, at level 1 `getStrength()` will return 20, then 40 at level 2, *etc.*. Don't forget to change it on the `Fighter` and `Hero` classes.
 
 Congratulations, this new workshop is now finished, our hero can go and rest a little before his next mission!
